@@ -14,5 +14,5 @@ This plugin is made to stop projectile boosting on your server (shooting yoursel
 * And last of all to customize the plugin go to plugins/NoBowBoosts/config.yml
 
 ## Notes
-This is a Java 17 project. The build system used is Maven.
+This is a Java 17 project. The build system used is Maven. And I probably will never update this plugin.
 
