@@ -1,0 +1,11 @@
+# This doesn't mean disabling the projectile fully it just means being able to shoot yourself with the projectile
+projectiles:
+  arrow: true
+  rod: true
+  snow-ball: true
+
+# Configure a custom message when somebody projectile boosts e.g "Projectile Boosting is not allowed on this server!", if you want to disable this just put enabled to false
+# If you want to include their name in the message write %player% for example "%player% projectile boosting is not allowed!" which becomes "Steve projectile boosting is not allowed!"
+projectile-boosting-message:
+  enabled: true
+  message: "&cProjectile Boosting is not allowed on this server!"

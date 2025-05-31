@@ -1,0 +1,8 @@
+name: NoBowBoosts
+version: '1.0-SNAPSHOT'
+main: com.emeraldnetwork.noBowBoosts.NoBowBoosts
+api-version: '1.8'
+prefix: NoBowBoosts
+authors: [ Avis ]
+description: No more bow boosting!
+website: emerald-network.com
